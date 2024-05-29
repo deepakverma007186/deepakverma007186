@@ -14,8 +14,12 @@ I'm a software developer, specializing in building mobile and website applicatio
 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=expo&logoColor=ffffff)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Tailwind.css](https://img.shields.io/badge/-Tailwind.css-0A1A2F?style=flat&logo=tailwindcss&logoColor=00d8fd)
+- 🌏 &nbsp;State:&nbsp;
+  ![Redux-Toolkit](https://img.shields.io/badge/-Redux--Toolkit-0A1A2F?style=flat&logo=redux&logoColor=764ABC)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🛢 &nbsp;Database:&nbsp;
