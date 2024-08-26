@@ -4,9 +4,9 @@ I'm a software developer, specializing in building mobile and website applicatio
 
 ## About me
 
-✨ Enjoys building apps in frameworks like React and React Native.Also into building APIs using REST.
+✨ Enjoys building apps in frameworks like React-Native, Expo and React. Also into building APIs using REST.
 
-✨ FullStack Mobile and Web Developer
+✨ Mobile and Web Developer
 
 <hr>
 
